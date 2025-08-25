@@ -1,3 +1,5 @@
+//Catangue, Jemylyn D.
+//BSIT-3B
 package com.example.jemylyncatangue;
 
 import android.os.Bundle;
